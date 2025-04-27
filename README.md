@@ -2,6 +2,8 @@
 
 A minimal blockchain simulator built in Python to understand basic blockchain concepts like blocks, hashing, proof of work, and chain validation.
 
+![Python Tests](https://github.com/toshydev/mini-blockchain/actions/workflows/python-tests.yml/badge.svg)
+
 ## Features
 
 -   Create a chain of blocks
